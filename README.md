@@ -1,6 +1,6 @@
 # Ryzen 9 Upgrade
 
-## specs
+## Builds
 
 ### AMD Ryzen 9 3900X
 
