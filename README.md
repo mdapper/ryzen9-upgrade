@@ -1,5 +1,19 @@
 # Ryzen 9 Upgrade Benchmarks
 
+## Development Benchmarks
+
+| Name       | Command            | Ryzen 9 3900X                   | Intel i7 4770K | Macbook Pro (13-inch 2017) |
+| ---------- | ------------------ | ------------------------------- | -------------- | -------------------------- |
+| Monolith   | `yarn prod`        | 7.64s                           | Xs             | Xs                         |
+| Monolith   | `yarn jest`        | 6.735s                          | Xs             | Xs                         |
+| Monolith   | `yarn cypress:run` | 16 minutes, 20 seconds          | Xs             | Xs                         |
+| React      | `yarn build`       | 87.10s                          | Xs             | Xs                         |
+| React      | `yarn test`        | 36.387s                         | Xs             | Xs                         |
+| Components | `yarn components`  | 8.10s                           | Xs             | Xs                         |
+| Components | `yarn build`       | 433.12s (7 minutes, 13 seconds) | Xs             | Xs                         |
+| Components | `yarn test`        | 4.125s                          | Xs             | Xs                         |
+| Auth API   | `mix compile`      | 29.708s                         | Xs             | Xs                         |
+
 ## Builds
 
 ### AMD Ryzen 9 3900X
@@ -35,17 +49,3 @@
 | Storage   | 256GB SSD                                                                    |
 | Memory    | 8GB of 2133MHz LPDDR3 onboard memory                                         |
 | Graphics  | Intel Iris Plus Graphics 640 1536 MB                                         |
-
-## Development Benchmarks
-
-| Name       | Command            | Ryzen 9 3900X                   | Intel i7 4770K | Macbook Pro (13-inch 2017) |
-| ---------- | ------------------ | ------------------------------- | -------------- | -------------------------- |
-| Monolith   | `yarn prod`        | 7.64s                           | Xs             | Xs                         |
-| Monolith   | `yarn jest`        | 6.735s                          | Xs             | Xs                         |
-| Monolith   | `yarn cypress:run` | 16 minutes, 20 seconds          | Xs             | Xs                         |
-| React      | `yarn build`       | 87.10s                          | Xs             | Xs                         |
-| React      | `yarn test`        | 36.387s                         | Xs             | Xs                         |
-| Components | `yarn components`  | 8.10s                           | Xs             | Xs                         |
-| Components | `yarn build`       | 433.12s (7 minutes, 13 seconds) | Xs             | Xs                         |
-| Components | `yarn test`        | 4.125s                          | Xs             | Xs                         |
-| Auth API   | `mix compile`      | 29.708s                         | Xs             | Xs                         |
