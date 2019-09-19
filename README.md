@@ -1,4 +1,4 @@
-# Ryzen 9 Upgrade
+# Ryzen 9 Upgrade Benchmarks
 
 ## Builds
 
