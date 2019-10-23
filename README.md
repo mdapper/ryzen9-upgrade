@@ -32,17 +32,16 @@
 
 ### Intel Core i7 4770K
 
-| Type                 | Description                                                                                   | Link                                                                                                                                                        |
-| -------------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Processor            | Intel Core i7-4770K, 4 Cores, 8 Threads, 3.50 GHz, Turbo Max Clock, 3.90 GHz, 8 MB SmartCache | [specs](https://ark.intel.com/content/www/us/en/ark/products/75123/intel-core-i7-4770k-processor-8m-cache-up-to-3-90-ghz.html)                              |
-| Motherboard          | Gigabyte Z87X-UD3H                                                                            | [specs](https://www.gigabyte.com/us/Motherboard/GA-Z87X-UD3H-rev-1x#ov)                                                                                     |
-| Memory               | 32GB (4x8GB) Corsair Vengeance DDR3 DRAM 1600MHz                                              | [specs](https://www.corsair.com/us/en/Categories/Products/Memory/High-Performance-Memory/Vengeance%C2%AE-%E2%80%94-8GB-DDR3-Memory-Kit/p/CMZ8GX3M1A1600C10) |
-| Graphics             |
-| EVGA GeForce GTX 780 |                                                                                               |
-| Storage              | OCZ Agility 4 120 GB                                                                          |                                                                                                                                                             |
-| Power Supply         | CORSAIR HX620W                                                                                | [specs](https://www.corsair.com/us/en/Categories/Products/Power-Supply-Units/Professional-Series%E2%84%A2-HX620/p/CMPSU-620HX)                              |
-| Case                 | Cooler Master CM 690 II                                                                       | [specs](https://www.coolermaster.com/catalog/cases/mid-tower/cm-690-ii-ver-2/)                                                                              |
-| OS                   | Ubuntu 18.04                                                                                  |                                                                                                                                                             |
+| Type         | Description                                                                                   | Link                                                                                                                                                        |
+| ------------ | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Processor    | Intel Core i7-4770K, 4 Cores, 8 Threads, 3.50 GHz, Turbo Max Clock, 3.90 GHz, 8 MB SmartCache | [specs](https://ark.intel.com/content/www/us/en/ark/products/75123/intel-core-i7-4770k-processor-8m-cache-up-to-3-90-ghz.html)                              |
+| Motherboard  | Gigabyte Z87X-UD3H                                                                            | [specs](https://www.gigabyte.com/us/Motherboard/GA-Z87X-UD3H-rev-1x#ov)                                                                                     |
+| Memory       | 32GB (4x8GB) Corsair Vengeance DDR3 DRAM 1600MHz                                              | [specs](https://www.corsair.com/us/en/Categories/Products/Memory/High-Performance-Memory/Vengeance%C2%AE-%E2%80%94-8GB-DDR3-Memory-Kit/p/CMZ8GX3M1A1600C10) |
+| Graphics     | EVGA GeForce GTX 780                                                                          |                                                                                                                                                             |
+| Storage      | OCZ Agility 4 120 GB                                                                          |                                                                                                                                                             |
+| Power Supply | CORSAIR HX620W                                                                                | [specs](https://www.corsair.com/us/en/Categories/Products/Power-Supply-Units/Professional-Series%E2%84%A2-HX620/p/CMPSU-620HX)                              |
+| Case         | Cooler Master CM 690 II                                                                       | [specs](https://www.coolermaster.com/catalog/cases/mid-tower/cm-690-ii-ver-2/)                                                                              |
+| OS           | Ubuntu 18.04                                                                                  |                                                                                                                                                             |
 
 ### Macbook Pro (13-inch 2017)
 
