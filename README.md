@@ -2,17 +2,17 @@
 
 ## Development Benchmarks
 
-| Name       | Command            | Ryzen 9 3900X                   | Intel i7 4770K | Macbook Pro (13-inch 2017) |
-| ---------- | ------------------ | ------------------------------- | -------------- | -------------------------- |
-| Monolith   | `yarn prod`        | 7.39s (59.50s first run)        | Xs             | 12.77s (first run 140.01s) |
-| Monolith   | `yarn jest`        | 6.735s                          | Xs             | 55.56s                     |
-| Monolith   | `yarn cypress:run` | 16 minutes, 20 seconds          | Xs             | Xs                         |
-| React      | `yarn build`       | 87.10s                          | Xs             | 107.36s                    |
-| React      | `yarn test`        | 36.387s                         | Xs             | 304.585s                   |
-| Components | `yarn components`  | 8.10s                           | Xs             | 13.70s                     |
-| Components | `yarn build`       | 433.12s (7 minutes, 13 seconds) | Xs             | 534.93s                    |
-| Components | `yarn test`        | 4.125s                          | Xs             | 32.695s                    |
-| Auth API   | `mix compile`      | 29.708s                         | Xs             | Xs                         |
+| Name       | Command            | Ryzen 9 3900X | Intel i7 4770K | Macbook Pro (13-inch 2017) |
+| ---------- | ------------------ | ------------- | -------------- | -------------------------- |
+| Monolith   | `yarn prod`        | 59.50s        | 158.72s        | 140.01s                    |
+| Monolith   | `yarn jest`        | 6.735s        | 33.049s        | 55.56s                     |
+| Monolith   | `yarn cypress:run` | 16m20s        | 35m02s         | Xs                         |
+| React      | `yarn build`       | 87.10s        | 123.95s        | 107.36s                    |
+| React      | `yarn test`        | 36.387s       | 151.798s       | 304.585s                   |
+| Components | `yarn components`  | 8.10s         | 8.39s          | 13.70s                     |
+| Components | `yarn build`       | 7m13s         | 92.09s         | 534.93s                    |
+| Components | `yarn test`        | 4.125s        | 10.271s        | 32.695s                    |
+| Auth API   | `mix compile`      | 29.708s       | 33.372s        | Xs                         |
 
 ## Builds
 
